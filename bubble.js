@@ -5,27 +5,27 @@ function _(x){return document.getElementById(x);}
 var ba, bi=0, intrvl;
 // bca - Bubble Content Array. Put your content here.
 var bca = [
-    '<img src=\"images/ashton1.jpg\">',
-	'<img src=\"images/ashton2.jpg\">',
-	'<img src=\"images/ashton3.jpg\">',
-	'<img src=\"images/ashton4.jpg\">',
-	'<img src=\"images/ashton5.jpg\">',
-	'<img src=\"images/ashton6.jpg\">',
-	'<img src=\"images/ashtonfluff.jpg\">',
-	'<img src=\"images/ashtonfluff2.jpg\">',
-	'<img src=\"images/ashtonfluff3.jpg\">',
-	'<img src=\"images/ashtonfluff4.jpg\">',
-	'<img src=\"images/ashtonfluff5.jpg\">',
-	'<img src=\"images/ashtonfluff6.jpg\">',
-	'<img src=\"images/fluffy.jpg\">',
-	'<img src=\"images/fluffy2.jpg\">',
-	'<img src=\"images/fluffy3.jpg\">',
-	'<img src=\"images/fluffy4.jpg\">',
-	'<img src=\"images/fluffy5.jpg\">',
-	'<img src=\"images/fluffy6.jpg\">',
-	'<img src=\"images/conor.jpg\">',
-	'<img src=\"images/conor2.jpg\">',
-	'<img src=\"images/ashton.jpg\">'
+    '<img src=\"images2/IMG_1165.png\">',
+	'<img src=\"images2/IMG_1809.jpeg\">',
+	'<img src=\"images2/IMG_6538.JPG\">',
+	'<img src=\"images2/IMG_6541.JPG\">',
+	'<img src=\"images2/IMG_6544.JPG\">',
+	'<img src=\"images2/IMG_9229.jpeg\">',
+	'<img src=\"images2/9089.jpeg\">',
+	'<img src=\"images2/8002.jpeg\">',
+	// '<img src=\"images/ashtonfluff3.jpg\">',
+	// '<img src=\"images/ashtonfluff4.jpg\">',
+	// '<img src=\"images/ashtonfluff5.jpg\">',
+	// '<img src=\"images/ashtonfluff6.jpg\">',
+	// '<img src=\"images/fluffy.jpg\">',
+	// '<img src=\"images/fluffy2.jpg\">',
+	// '<img src=\"images/fluffy3.jpg\">',
+	// '<img src=\"images/fluffy4.jpg\">',
+	// '<img src=\"images/fluffy5.jpg\">',
+	// '<img src=\"images/fluffy6.jpg\">',
+	// '<img src=\"images/conor.jpg\">',
+	// '<img src=\"images/conor2.jpg\">',
+	// '<img src=\"images/ashton.jpg\">'
 	 
 ];
 // This function is triggered by the bubbleSlide() function below
